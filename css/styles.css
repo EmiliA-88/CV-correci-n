@@ -1,3 +1,17 @@
 body {
     font-family: 'Lato', sans-serif;
 }
+
+ h1 {
+    text-align: center;
+    border: 9px solid mediumpurple;
+    padding: 5px;
+    margin: 30px;
+}
+
+section {
+    width: 300px;
+    border: 15px solid mediumseagreen;
+    padding: 50px;
+    margin: 20px;
+}
